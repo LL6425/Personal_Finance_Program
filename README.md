@@ -8,7 +8,7 @@ In fact, the user can:
 - Update the portfolio through open and closed positions
 - Control expenses,revenues and investments
 
-File Personal_Finance_Prg.ipynb contains the functions, the program and an example comprehensive of all the tasks the program can perform.
+File PF_Prog.ipynb contains the functions, the program and an example comprehensive of all the tasks the program can perform.
 
 Packages: pandas, matplotlib.pyplot, yfinance
 
